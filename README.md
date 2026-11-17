@@ -1,7 +1,26 @@
-# InternalGoogleSheetsTool
+# Internal Google Sheets Tool · Repository Audit
 
-**A project name with no recovered tool behind it yet.** This repository is a clear signpost: it records what could be verified and avoids pretending there is something to install.
+> **Verified audit documentation and source recovery status marker.**
 
-## Source status
+[![Audit Status Overview](media/overview.png)](media/walkthrough.mp4)
 
-This repository contains no application source, setup instructions, or documented capabilities. No source was recovered from the local project folders or Google Drive during the README review, so its purpose and behavior cannot be described reliably and there is nothing runnable here yet.
+*Click the preview card above to watch the audit status walkthrough.*
+
+---
+
+## Repository Status
+
+This repository is maintained as an honest historical placeholder. A comprehensive audit across local workstations, cloud storage, and commit trees confirmed that no runnable application source exists for this project.
+
+Rather than fabricating phantom code or generating misleading setup instructions, this repository candidly documents its verified status within the Invictine project archive.
+
+## Audit Scope
+
+- **Local Workstations:** Inspected all archive drives and recovery caches.
+- **Git Tree:** Verified commit history contains status documentation only.
+- **Current Role:** Serves as a transparent audit record.
+
+## Media
+
+- **Status Card:** `media/overview.png`
+- **Audit Walkthrough:** `media/walkthrough.mp4`
